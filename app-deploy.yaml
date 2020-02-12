@@ -57,7 +57,6 @@ metadata:
   namespace: danske-bank
 spec:
   applicationImage: dev.local/danni-microprofile2
-  replicas: 2
   createKnativeService: false
   expose: true
   livenessProbe:
