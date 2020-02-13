@@ -82,4 +82,5 @@ spec:
     type: NodePort
   stack: java-microprofile
   version: 1.0.0
+  targetNamespaces: danske-bank
 status: {}
