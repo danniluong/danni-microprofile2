@@ -54,7 +54,6 @@ metadata:
     stack.appsody.dev/id: java-microprofile
     stack.appsody.dev/version: 0.2.21
   name: danni-microprofile2
-  namespace: danske-bank
 spec:
   replicas: 1
   applicationImage: dev.local/danni-microprofile2
