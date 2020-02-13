@@ -56,7 +56,7 @@ metadata:
   name: danni-microprofile2
 spec:
   replicas: 1
-  targetNamespaces: danske-bank
+  targetNamespaces: Danske-Bank
   applicationImage: dev.local/danni-microprofile2
   createKnativeService: false
   expose: true
